@@ -1,0 +1,6 @@
+Product.class
+ProductSearchService.class
+ProductServer$SearchHandler.class
+ProductServer.class
+ProductServer$ProductsHandler.class
+Specification.class
