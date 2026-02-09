@@ -1,4 +1,4 @@
-# Product Search — Java Backend
+# Product Search for Ecommerce System
 
 Small Java HTTP API that loads product data from a JSON file and exposes listing and search endpoints.
 
